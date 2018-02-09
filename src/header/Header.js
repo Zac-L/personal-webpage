@@ -15,4 +15,5 @@ class Header extends PureComponent {
 
 export default connect(
   state => ({}),
+  null
 )(Header);
